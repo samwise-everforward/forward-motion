@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Forward Motion — The Derek Edition</title>
+  <link>https://samwise-everforward.github.io/forward-motion/</link>
+  <language>en-us</language>
+  <itunes:author>Samwise</itunes:author>
+  <description>A private, personalized podcast for Derek: practical moves and fresh news across revenue management, building your own thing, AI leverage, health, money, and family. Produce more than you put in.</description>
+  <itunes:summary>A private, personalized podcast for Derek. Produce more than you put in.</itunes:summary>
+  <itunes:owner><itunes:name>Derek Lynn</itunes:name><itunes:email>dlynn@nightly.cc</itunes:email></itunes:owner>
+  <itunes:image href="https://samwise-everforward.github.io/forward-motion/cover.png"/>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <item>
+    <title>Ep. 2 — The Derek Edition</title>
+    <itunes:summary>Six parts: revenue-management triage, building your own product, AI as leverage, the health protocol (with this month's retatrutide Phase 3 news), money and structure for the 1099 to W-2 shift, and the Texas why.</itunes:summary>
+    <description>Six parts: revenue-management triage, building your own product, AI as leverage, the health protocol (with this month's retatrutide Phase 3 news), money and structure for the 1099 to W-2 shift, and the Texas why.</description>
+    <enclosure url="https://samwise-everforward.github.io/forward-motion/audio/ep2.mp3" length="33796444" type="audio/mpeg"/>
+    <guid isPermaLink="false">forward-motion-ep2-20260619</guid>
+    <pubDate>Fri, 19 Jun 2026 20:00:00 GMT</pubDate>
+    <itunes:duration>23:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
